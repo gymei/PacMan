@@ -4,6 +4,6 @@ public class Test{
   }
   
   public void zeige(){
-    System.out.println("Test);
+    System.out.println("Test");
   }
 }
